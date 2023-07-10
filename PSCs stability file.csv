@@ -1,4 +1,4 @@
-Cs,FA,MA,Pb,Br,I,Active area of cell (cm²),Bandgap (eV),PCE (%),PDTA Temp. (°C),PDTA Time (min),Average Temperature(°C),Average RH (%),PCE Retaining (%),Stability Time Exposure (Hours),Ref_DOI_number
+Cs,FA,MA,Pb,Br,I,Active area of cell (cmÂ²),Bandgap (eV),PCE (%),PDTA Temp. (Â°C),PDTA Time (min),Average Temperature(Â°C),Average RH (%),PCE Retaining (%),Stability Time Exposure (Hours),Ref_DOI_number
 0,0,1,1,0,1,0.04,1.6,13.3,100,10,25,34,61,480,10.1016/j.electacta.2017.12.108
 0,0,1,1,0,1,0.04,1.6,17.2,100,10,25,34,78,480,10.1016/j.electacta.2017.12.108
 0,0,1,1,0,1,0.096,1.6,12,80,10,25,40,80,300,10.1039/c6ta09202k
@@ -526,6 +526,3 @@ Cs,FA,MA,Pb,Br,I,Active area of cell (cm²),Bandgap (eV),PCE (%),PDTA Temp. (°C),
 0.15,0.75,0.1,1,0.033,0.967,0.04,1.57,20.2,110,5,27,50,80,950,10.1039/C8NR00152A
 0,0,1,1,0,1,0.04,1.6,18.06,100,30,25,30,70,240,10.1039/c7nr07933h
 0,0,1,1,0,1,0.04,1.6,14.57,100,30,27,30,75,240,10.1039/c7nr07933h
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
